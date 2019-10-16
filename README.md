@@ -4,7 +4,7 @@
 - [x] Learned datastructures and how to implement these (Primitive datatypes, arrays, pointers and references etc.)
 - [x] Practiced algorithmic problem solving (Properties, strategies, implementation of algorithms etc.)
 - [x] Practiced the general principles of Object-oriented programming (Design, inheritance, polymorphism etc.)
-More info: https://www.kth.se/student/kurser/kurs/ID1018
+> More info: https://www.kth.se/student/kurser/kurs/ID1018
 ## Labs
 - OU1: Debugging a faulty algorithm
 - OU2: Distance problem
